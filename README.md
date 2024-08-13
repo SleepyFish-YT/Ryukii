@@ -8,6 +8,8 @@ This project will be coded in python so i learn this easy
 language i always avoided. This will take its time because
 i have other things to do and also in life, so be patient.
 
+![imatttge](https://github.com/user-attachments/assets/cfdcfa84-f949-4e02-bdd7-c87ba83e680a)
+
 ## Planned Ideas
 - Use smoothing
 - Auto Smoothness
