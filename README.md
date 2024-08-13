@@ -21,10 +21,12 @@ i have other things to do and also in life, so be patient.
 - Show Fov
 - Fov render color picker
 - AI Confidence
+- AI lines (inside fov from crosshair to object)
+- AI lines color picker
 
 ## Future Ideas
+- Config system
 - Color Checks
-- Color Picker
 - Triggerbot
 - Triggerbot mode only
 - Triggerbot speed
