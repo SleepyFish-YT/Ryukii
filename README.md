@@ -1,4 +1,4 @@
-# Ryukii
+# Ryukii 🎁
 AimAssist for every game (in development)
 
 In this project i will work together with my good friend,
