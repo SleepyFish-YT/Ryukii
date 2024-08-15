@@ -36,6 +36,6 @@ i have other things to do and also in life, so be patient.
 - More AI settings
 
 ## Sneak peek on the first states of the Gui
-![sneakypeaky](https://github.com/user-attachments/assets/cfdcfa84-f949-4e02-bdd7-c87ba83e680a)
+![screenshot-15/8/24](https://github.com/user-attachments/assets/f2106613-c32e-41dd-88c1-1a94bb24e357)
 
 ###### Signed by SleepyFish
